@@ -1,0 +1,12 @@
+/a "Enter Character"
+PING
+/a "Enter Number"
+ENTRY
+RUN_IT_BACK:
+HIT
+ROTATE
+CLONING
+THROW
+ROTATE
+LURK RUN_IT_BACK
+FF

@@ -1,0 +1,7 @@
+/a "Enter First Number:"
+ENTRY
+/a "Enter Second Number:"
+ENTRY
+CLUTCH
+THROW
+FF
